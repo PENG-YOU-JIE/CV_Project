@@ -27,3 +27,5 @@
   - Disparity
 
 ## Final project : MTK_real/synthetic_disparity
+
+  - mix mc_cnn and conventional methods to deal with real and synthetic disparity
