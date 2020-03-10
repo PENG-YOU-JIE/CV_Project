@@ -2,8 +2,8 @@
 108 study years 1st semester
 
 
-## HW1 : JBF(Joint Bilateral Filter)
-## HW2 : cnn(手寫辨識) and related work
-## HW3 : Homography and recognization 
-## HW4 : Stereo Matching
-## Final project : MTK_real/synthetic_disparity
+* ***HW1*** : JBF(Joint Bilateral Filter)
+* ***HW2*** : Deep Learning and Machine Learning Basics: PCA, LDA, Object Recognition
+* ***HW3*** : Projective Geometry, Simple Augmented Reality (AR)
+* ***HW4*** : Stereo Matching
+* ***Final Project*** : Depth Generation for More Realistic Scenes (MTK project)
